@@ -48,7 +48,7 @@ int main(void)
 	cout << "this is for commit test 1" << endl; // for commit test 1
 
 	if(!s.empty()) cout << "the stack is not empty !" << endl // for commit test2
-
+	else cout << i + ans << endl; // for commit test 4
 	cout << ans;
 
 }
